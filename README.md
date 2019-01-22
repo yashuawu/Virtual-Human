@@ -20,4 +20,4 @@ the game is called ' what are the things in the world? and what're the relations
 
 he can talk, tell one or two jokes, play music.   he knows what he talks. 
 
-he is really grow up from time to time.  he reads and he learns. he asks and he difines. he want to know the game.
+he is really growing up from time to time.  he reads and he learns. he asks and he difines. he wants to know the game.
