@@ -21,3 +21,5 @@ the game is called ' what are the things in the world? and what're the relations
 he can talk, tell one or two jokes, play music.   he knows what he talks. 
 
 he is really growing up from time to time.  he reads and he learns. he asks and he difines. he wants to know the game.
+
+I found a similiar project: https://github.com/ARIA-VALUSPA/AVP  , will try to exploite it firstly.
