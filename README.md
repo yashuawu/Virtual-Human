@@ -3,7 +3,7 @@ A program, knowledge is text based, define Noun, Verb as relations of Noun, Adj 
 
 the text DB is including Noun and relations of Noun,  Adj, prep, position( front back left right up down ), time ( past now future)
 
-None normally associated with a picture,   verb or event is assosiated with a picture or small video.
+a noun is normally associated with a picture,   a verb or an event is assosiated with a picture or small video.
 
 computer vision is a realtime camera alaysis tool,  labeling the items, asking for things he does not know, then define it in his DB. and label it.      computer display is a window to show pics representing the noun or verb or event, can searching in the internet then store a tipical pic or small video.         he can display a boy.   a girl,  a thing you name it.  an action,  an event.  a picture which you discribe like:   there is a pig live in a house, he is dring a bottle of water,  it's night and it's cool, he misses his mom.....
 
